@@ -1,5 +1,1 @@
-# c_cmd
-# Baekjoon
-# Baekjoon
-# Baekjoon
-# Baekjoon
+백준 허브를 통해 해결한 문제를 자동으로 올립니다.
